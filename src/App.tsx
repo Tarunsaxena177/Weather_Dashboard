@@ -103,7 +103,7 @@ export default function App() {
               <Sun className="w-5 h-5 text-white" />
             </div>
             <div className="flex flex-col">
-              <h1 className="text-xl font-bold tracking-tight text-slate-900 leading-none">MeteoInsight</h1>
+              <h1 className="text-xl font-bold tracking-tight text-slate-900 leading-none">SkyInsight</h1>
               {location?.name && (
                 <div className="flex items-center gap-1 text-[10px] text-slate-500 font-medium mt-1">
                   <MapPin className="w-2.5 h-2.5" />
