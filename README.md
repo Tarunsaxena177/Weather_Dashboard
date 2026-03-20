@@ -1,6 +1,6 @@
-# MeteoInsight
+# SkyInsight
 
-MeteoInsight is a high-performance, comprehensive weather dashboard providing real-time, hourly, and historical weather data with advanced visualizations. It offers a clean, modern interface to monitor weather conditions and air quality trends for any location.
+SkyInsight is a high-performance, comprehensive weather dashboard providing real-time, hourly, and historical weather data with advanced visualizations. It offers a clean, modern interface to monitor weather conditions and air quality trends for any location.
 
 ## 🚀 Features
 
@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone <repository-url>
-   cd meteoinsight
+   cd SkyInsight
    ```
 
 2. **Install dependencies**:
