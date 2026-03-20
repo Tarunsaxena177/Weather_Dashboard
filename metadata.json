@@ -1,0 +1,7 @@
+{
+  "name": "MeteoInsight",
+  "description": "A comprehensive weather dashboard providing real-time, hourly, and historical weather data with advanced visualizations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
