@@ -70,7 +70,3 @@ To run this project locally, follow these steps:
 - `src/services/`: API integration services with caching logic.
 - `src/App.tsx`: Main application orchestrator with location detection.
 - `src/index.css`: Global styles and Tailwind configuration.
-
-## 📄 License
-
-This project is licensed under the MIT License.
